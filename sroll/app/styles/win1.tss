@@ -1,0 +1,23 @@
+"#image":{
+	left:10,
+	width:50,
+	height:50
+}
+
+"#label1":{
+	textAlign:"center",
+	top:5,
+	font:{
+		fontSize:"20",
+		fontWeight:"bold"
+	}
+}
+"#label2":{
+	left:70,
+	top:30
+}
+"#image1":{
+	right:10,
+	width:10,
+	height:10
+}

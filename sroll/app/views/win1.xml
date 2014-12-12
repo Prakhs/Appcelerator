@@ -1,0 +1,18 @@
+<Alloy>
+    <Window id="win">
+    	<TableView>
+    		<TableViewRow>
+    			<ImageView id="image" image="/prak.jpg"></ImageView>
+    			<Label id="label1" text="Prakhar Gautam"></Label>
+    			<Label id="label2" text="Working at Accenture. Studied in VIT, Vellore"></Label>
+    			<ImageView id="image1" image="/scroll.jpg"></ImageView>
+    		</TableViewRow>
+    		<TableViewRow>
+    			<ImageView id="image" image="/milan.jpg"></ImageView>
+    			<Label id="label1" text="Milan Gautam"></Label>
+    			<Label id="label2" text="Brother of Prakhar Gautam. Studied in Gurukul, Vellore"></Label>
+    			<ImageView id="image1" image="/scroll.jpg"></ImageView>
+    		</TableViewRow>
+    	</TableView>
+    </Window>
+ </Alloy>
