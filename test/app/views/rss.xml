@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="rss">
+		<Label id="win1"> This is Tab 1</Label>
+		
+	</Window>
+</Alloy>

@@ -1,0 +1,4 @@
+function closeMe(){
+	$.container.close();
+}
+

@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<ImageView></ImageView>
+		<TextField id="user" borderStyle="Ti.UI.INPUT_BORDERSTYLE_BEZEL" hintText="Username"></TextField>
+		<TextField id="pass" borderStyle="Ti.UI.INPUT_BORDERSTYLE_ROUNDED" passwordMask="true"></TextField>
+		<Button id="button"  title="Log In" onClick="showWin1"></Button>
+		<Label id="label" ></Label>
+		
+	</Window>
+</Alloy>

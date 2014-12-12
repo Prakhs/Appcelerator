@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="container">
+		<Label id="label2" onClick="closeMe">Login Successful</Label>
+	</Window>
+</Alloy>

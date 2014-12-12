@@ -1,0 +1,5 @@
+<Alloy>
+	<Window>
+		<Label id="win3"> This is Tab 3</Label>
+	</Window>
+</Alloy>

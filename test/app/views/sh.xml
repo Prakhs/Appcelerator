@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="win4">
+		<Label backgroundColor="yellow"> This is Tab 4</Label>
+	</Window>
+</Alloy>
