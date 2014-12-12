@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="welcome" title="View Profile" >
+		<ImageView id="image" image="/prak.jpg"></ImageView>
+		<TableView id="table"/>
+		<Button id="button1"  title="Update" ></Button>
+		<Button id="button2"  title="Cancel" ></Button>
+	</Window>
+</Alloy>

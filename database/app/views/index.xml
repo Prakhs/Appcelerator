@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container" >
+		<TextField id="user" borderStyle="Ti.UI.INPUT_BORDERSTYLE_BEZEL" hintText="Username" keyboardType="Ti.UI.KEYBOARD_DEFAULT"></TextField>
+		<TextField id="pass" borderStyle="Ti.UI.INPUT_BORDERSTYLE_ROUNDED" hintText="Password" passwordMask="true" keyboardType="Ti.UI.KEYBOARD_DEFAULT"></TextField>
+		<TextField id="email" borderStyle="Ti.UI.INPUT_BORDERSTYLE_BEZEL" hintText="Email" keyboardType="Ti.UI.KEYBOARD_EMAIL"></TextField>
+		<TextField id="mobile" borderStyle="Ti.UI.INPUT_BORDERSTYLE_ROUNDED" hintText="Mobile" keyboardType="Ti.UI.KEYBOARD_DECIMAL_PAD"></TextField>
+		<Button id="button"  title="Register" onClick="showLogin"></Button>
+	</Window>
+</Alloy>

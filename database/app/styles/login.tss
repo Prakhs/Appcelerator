@@ -1,0 +1,29 @@
+".container": {
+	backgroundColor: "white",
+	orientationModes : [Ti.UI.PORTRAIT]
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#user":{
+	top: "5",
+	width: "200",
+	height: "50"
+}
+
+"#pass":{
+	top: "75",
+	width: "200",
+	height: "50"
+}
+
+
+"#button":{
+	top: "145",
+	width: "100",
+	height: "50"
+}
+

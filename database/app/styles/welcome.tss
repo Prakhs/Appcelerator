@@ -1,0 +1,36 @@
+"#welcome":{
+	backgroundColor: "white",
+	textAlign:Ti.UI.TEXT_ALIGNMENT_RIGHT,
+	orientationModes: []
+},
+"#table":
+{
+	top: 70,
+	left: 0,
+	right: 0,
+	bottom: 70,
+	separatorColor: 'red',
+	separatorInsets:
+	{
+		left: 0
+	},
+	separatorStyle: 0,
+	backgroundColor: 'gray'
+},
+"#image":{
+	top: 0,
+	width: 50,
+	height: 50
+},
+"#button1":{
+	bottom: 10,
+	width: 100,
+	height: 50,
+	left: 50
+}
+"#button2":{
+	width: 100,
+	height: 50,
+	left: 200,
+	bottom: 10
+}
